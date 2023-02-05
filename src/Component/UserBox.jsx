@@ -1,0 +1,19 @@
+import { Component } from "react";
+
+class UserBox extends Component
+{
+    constructor(props)
+    {
+        super(props);
+    }
+    render()
+    {
+        return (
+            <div>
+
+            </div>
+        );
+    }
+}
+
+export default UserBox;
